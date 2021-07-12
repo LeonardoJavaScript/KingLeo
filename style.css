@@ -1,0 +1,141 @@
+@font-face {
+    font-family: "Barlow-Black","Barlow-Black";
+
+
+}
+body{
+    background-color:#EFF6FF;
+}
+.H1{
+    color: #2A4A5C ;
+}
+.H2 {
+    color: #96A5B1;
+    font-size: 20px;
+
+}
+.leg{
+    color: #96A5B1;
+    margin-bottom: 50px;
+}
+.log{
+    margin-top: 50px;
+    color: #2A4A5C ;
+}
+.opg{
+    color: #96A5B1;
+    font-size: 15px;
+
+}
+.oko{
+    color: #3698FB;
+}
+.button{
+    margin-top: 15px;
+    padding: 12px;
+    width: 220px;
+    font-weight:200;
+    border: none;
+}
+.button1{
+    background:#255A9B url("https://raw.githubusercontent.com/jm-program/css-task/236629ad7226d4d4ba0cdc05160c9d181a1d1807/img/facebook.svg") no-repeat 10px 10px;
+    background-size: 20px;
+    margin: 20px 20px;
+    color: #FFFFFF ;
+
+}
+.button2{
+    background:#0076B6 url("https://raw.githubusercontent.com/jm-program/css-task/236629ad7226d4d4ba0cdc05160c9d181a1d1807/img/linkedin.svg") no-repeat 10px 10px;
+    background-size: 20px;
+    color: #FFFFFF ;
+}
+.button3{
+    background-color: #3698FB;
+    margin: 20px 140px;
+    color: #FFFFFF;
+}
+.Mail{
+    font-size: 11px;
+    height: 50px;
+    width: 250px;
+    border-color: #96A5B1;
+
+
+
+
+
+
+}
+.Tel {
+    font-size: 11px;
+    height: 50px;
+    width: 250px;
+    text-align: left;
+    border-color: #96A5B1;
+
+}
+.Font{
+    height: 75px;
+    width: 250px;
+    color: #96A5B1;
+    margin-bottom: 30px;
+    margin-top: 15px;
+
+}
+.Trust{
+    margin-left:25px ;
+}
+
+.IRA{
+    margin-left:25px ;
+}
+.Business{
+    margin-left:25px ;
+}
+.flex-container{
+    display: flex;
+    padding: 70px;
+    position: absolute;
+}
+.flex-container2{
+    display: flex;
+    justify-content: center;
+
+
+}
+.oro{
+    overflow: hidden;
+    font-size: 70%;
+    color: black;
+    margin: 25px 100px;
+
+}
+.oro2{
+    width: 200px;
+    margin: 0 auto;
+}
+.oro::before,
+.oro::after{
+    width: 30%;
+    height: 1px;
+    display: inline-block;
+    vertical-align: middle;
+    content: "";
+    border-width: 0 10px;
+    background: rgb(197,194,194);
+
+
+}
+.Image{
+    background-image: url("https://github.com/jm-program/css-task/blob/master/img/bg.jpg?raw=true");
+    background-repeat: no-repeat ;
+    background-size: contain;
+    height: 900px;
+    width: 685px;
+
+
+}
+.Fon{
+    background-color:#FFFFFF ;
+    padding: 50px;
+}
